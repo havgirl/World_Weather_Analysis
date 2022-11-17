@@ -15,7 +15,7 @@ To initiate the analysis, a random set of 2,000 latitudes and longitudes were ge
 
 ## Vacation Search
 
-Once the weather was better understood for each location, we were able to pinpoint a number of suitable locations and hotel for our client.
+Once the weather was better understood for each location, we were able to pinpoint a number of suitable locations and hotels for our client.
 
 ![Vacation_Search/WeatherPy_vacation_map.png](Vacation_Search/WeatherPy_vacation_map.png)
 
