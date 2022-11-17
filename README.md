@@ -2,7 +2,7 @@
 
 ## Overview
 
-The purpose of this analysis is to research ideal vacation spots for our client, and to provide a recommendation and itenary for the final destination(s).
+The purpose of this analysis was to research ideal vacation spots for our client, and to provide a recommendation and itenary for the final destination(s).
 
 ## Weather Database
 
