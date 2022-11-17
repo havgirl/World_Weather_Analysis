@@ -22,7 +22,7 @@ Once the weather was better understood for each location, we were able to pinpoi
 
 ## Vacation Itinerary
 
-After discussing options with our client they selected cities surrounding Mexico city.  Using the information we collected prior they chose four locations and we were able to provide them with a maps with markers identifing their selection including Hotel Name, City, etc as well as a map with directions to each location.
+After discussing options with our client they selected cities surrounding Mexico city.  Using the information we collected prior they chose four locations and we were able to provide them with a maps with markers identifing their selection including Hotel Name, City, etc as well as a direction map to each location.
 
 ![Vacation_Itinerary/WeatherPy_travel_map_markers.png](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
